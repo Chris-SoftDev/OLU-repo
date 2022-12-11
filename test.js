@@ -1,5 +1,5 @@
 function sayHello(name) {
-    return msg = `${name} says, Hello World!!`;
+    return msg = `${name} is cool!`;
 }
 
 
